@@ -1,0 +1,20 @@
+Month,Incident Number,Date of Incident/Day of Week,Number of vitims under 18,Number of Victims Over 18,Number of Offenders under 18,Number of Offenders over 18,Race/Ethnic of Offender(s),Offense(s),Offense Location,    Bias,Victim Type
+January,2018-251458,01 25 2018/Thur,0,2,0,1,White/NotHispanic,Burglary/Assault,Residence/Home,Anti-Lesbian,Individual
+January,2018-200595,01 19 2018/Fri,0,0,0,0,Unknown,Vandalism,Parking Lot/Garage,Anti-Black,Vehicle
+February,2018-400447,02 08 2018/Thur,0,1,0,1,White/NotHispanic,Assault,Parking Lot/Garage,Anti-Gay,Individual
+February,2018-530804,02 22 2018/Thur,0,1,0,1,White/NotHispanic,Vandalism,Highway/Road/Street,Anti-Black,Individual
+March,2018-611809,03 02 2018/Fri,0,1,0,4,Black/Unknown,Assault,Highway/Road/Street,Anti-Hispanic,Individual
+March,2018-651279,03 06 2018/Tue,0,0,1,1,White/NotHispanic,Vandalism,Convenience Store,Anti-Arab,Business
+March,2018-670117,03 08 2018/Thur,0,1,0,1,White/NotHispanic,Assault,Highway/Road/Street,Anti-Black,Individual
+April,2018-911582,04 01 2018/Sun,0,1,0,1,White/NotHispanic,Intimidation,Parking Lot/Garage,Anti-Black,Individual
+April,2018-120696,04 30 2018/Mon,0,1,0,1,White/Hispanic,Assault,Streets/Highway/Road/Alley,Anti-White,Individual
+May ,2018-1410057,05 21 2018/Mon,0,1,0,1,White/Hispanic,Assault,Bar/Nightclub,Anti-Gay,Individual
+June,2018-1671923,06 16 2018/Sat,0,1,0,1,White/Hispanic,Assault,Parking Lot/Garage,Anti-Gay (Male),Individual
+June,2018-1791666,06 28 2018/Thur,0,1,0,1,White/NotHispanic,Assault,Convenience Store,Anti-Black,Individual
+August,2018-2250662,08 13 2018/Mon,0,1,0,1,White/NotHispanic,Assault,Residence/Home,Anti-Black,Individual
+August,2018-5033471,08 25 2018/Sat,0,1,0,1,Asian/NotHispanic,Assault,Convenience Store,Anti-Black,Individual
+September,2018-2521623,09 09 2018/Sun,0,1,0,1,White/Hispanic,Theft,Bar/Nightclub,Anti-Disability,Individual
+September,2018-2531786,09 11 2018/Tues,0,1,0,1,White/NotHispanic,Aggravated Assault,Church/Synagogue,Anti-Black,Individual
+October,2018-2840756,    10 11 2018/Thur,1,0,0,1,White/NotHispanic,Assault,Park/Playground,Anti-Hispanic,Individual
+October,2018-2921720, 10 19 2018/Fri,0,1,0,1,Black/NotHispanic,Assault,Highway/Road/Street,Anti-Transgender,Individual
+December,2018-3491016,12 15 2018/Sat,0,1,0,1,White/Hispanic,Assault,Streets/Highway/Road/Alley,Anti-Hispanic,Individual
