@@ -1,4 +1,4 @@
-Incident_ID,Year,Reporting_Agency,State,Population_Group,Incident_Date,Offender_Count,Offender_Race,Victim_Count,Offense_Name,Location,Bias,Victim_Type,Parent Offense,Day of Week,Month,Day
+Incident_ID,Year,Reporting_Agency,State,Population_Group,Incident_Date,Offender_Count,Offender_Race,Victim_Count,Offense_Name,Location,Bias,Victim_Type,Parent_Offense,Day_of_Week,Month,Day
 2540,1991,County,Texas,"MSA counties from 10,000 thru 24,999",1991-09-01,1,White,1,Simple Assault,Jail/Prison/Penitentiary/Corrections Facility,Anti-Black or African American,Individual,Simple Assault,Sunday,9,1
 2411,1991,City,Texas,"Cities 1,000,000 or over",1991-01-25,3,White,1,Aggravated Assault,Parking/Drop Lot/Garage,Anti-Black or African American,Individual,Aggravated Assault,Friday,1,25
 2412,1991,City,Texas,"Cities 1,000,000 or over",1991-01-26,1,White,1,Intimidation,Convenience Store,Anti-Arab,Individual,Intimidation,Saturday,1,26

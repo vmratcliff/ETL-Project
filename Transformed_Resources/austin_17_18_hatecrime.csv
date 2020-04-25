@@ -1,4 +1,4 @@
-Month,Incident_Number,Incident_date,Offender_Race,Offense_Name,Offense_Location,Bias,Victim_Type,Day_of_Week,Total_Victims,Total_Offenders,Day,Year
+Month,Incident_ID,Incident_Date,Offender_Race,Offense_Name,Offense_Location,Bias,Victim_Type,Day_of_Week,Total_Victims,Total_Offenders,Day,Year
 1,2017-241137,2017-01-01,White/Not Hispanic,Aggravated Assault,Park/Playground,Anti-Black or African American,Individual,Sunday,1,1,1,2017
 2,2017-580344,2017-02-01,Black or African American/Not Hispanic,Aggravated Assault,Highway/Road/Alley/Street/Sidewalk,Anti-White,Individual,Wednesday,1,1,1,2017
 3,2017-800291,2017-03-21,Unknown,Destruction,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,Other,Tuesday,0,0,21,2017
