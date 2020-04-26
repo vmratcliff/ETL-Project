@@ -22,6 +22,7 @@ CREATE TABLE texas_crime (
 );
 
 DROP TABLE IF EXISTS "Austin_Hate_Crimes";
+
 CREATE TABLE "Austin_Hate_Crimes" (
     "Incident_ID" VARCHAR  PRIMARY KEY NOT NULL,
     "Incident_Date" DATE NOT NULL,
