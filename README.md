@@ -16,13 +16,16 @@ Data Sources used for this project:
 * National - CSV File: https://crime-data-explorer.fr.cloud.gov/downloads-and-docs
 * Austin Local - CSV File: https://data.austintexas.gov/browse?q=hate%20crime&sortBy=relevance
 
-#### Transform (for more detail, see technical report)
+#### Transform
+(for more detail, see technical report)
 
 * National Hate Crime: The CSV file was filtered down to Texas only to compare Austin trends to state level data. We broke out the offense column to get a simplified parent offense view. After doing that, we simplified parent offense into simpler buckets.
 
 * Austin Hate Crime: We merged 2017 and 2018 data into one, and simplified the victim and offense age buckets into total count columns. The date columns were reformatted so both datasets shared the same formatting style.
 
 #### Load
+(for more detail, see technical report)
+
 In this section, the focus was to ensure the transformed files were served over to pgAdmin/PostgreSQL. We chose PosgreSQL because we preferred a structured database, given the data was already structured in CSV files. We also wanted to query the data after loading, so PostgreSQl was the preferred database. 
 
 
