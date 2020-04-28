@@ -8,7 +8,7 @@ Our team chose to examine Hate Crime data at a Texas State level and at a local 
 
 #### Extract
 
-2 datasets on Hate Crime were chosen; one from the Federal Bureau of Investigation (FBI) Crime Data Explorer website and the other from austintexas.org. The FBI Crime Data provides National data from 1991-2018; while the austintexas.org dataset provides local Austin hate crime data for 2017 and 2018.  
+Two datasets on Hate Crime were chosen; one from the Federal Bureau of Investigation (FBI) Crime Data Explorer website and the other from austintexas.org. The FBI Crime Data provides National data from 1991-2018; while the austintexas.org dataset provides local Austin hate crime data for 2017 and 2018.  
 
 According to the FBI’s Crime Data Explorer, the Hate Crime datasets provide annual statistics on the number of incidents, offenses, victims, offenders, locations that are motivated by the offender’s bias against the victim’s perceived race, gender, religion, disability, ethnicity, or sexual orientation. 
 
