@@ -1,8 +1,8 @@
-# ETL-Project
+# ETL-Project: Hate Crime Data
 ### Team Members: Gina Cameras, Abby Ko, Wendy Meyer, Veronica Ratcliff 
 
-Technical Report: https://docs.google.com/document/d/1v-9s4ZmyNWailCZoIIQGY7ARb8f-inGpmFLFwSnVG2c/edit?usp=sharing
-Presentation: https://docs.google.com/presentation/d/1sP-yhW9Kw_lxldvLqbLi0Xty_LsXTEvkEL4B6liR4ok/edit?usp=sharing
+* Technical Report: https://docs.google.com/document/d/1v-9s4ZmyNWailCZoIIQGY7ARb8f-inGpmFLFwSnVG2c/edit?usp=sharing
+* Presentation: https://docs.google.com/presentation/d/1sP-yhW9Kw_lxldvLqbLi0Xty_LsXTEvkEL4B6liR4ok/edit?usp=sharing
 
 #### Introduction
 
